@@ -20,6 +20,6 @@
     console.log(ul);
     ```
     可以發現 ul 的值是 540，在這裡可以再輸入匡中輸入 540，結果沒有跳出 Wrong，可以證明這個數值是對的
-* 之後用計算機稍微算一下 \\(540 \times 540 = 291600\\)
+* 之後用計算機稍微算一下 \(540 \times 540 = 291600\)
 * 訪問一下 https://webhacking.kr/challenge/js-1/?291600 就可以過拉
     ![](https://i.imgur.com/4VTuneT.png)
