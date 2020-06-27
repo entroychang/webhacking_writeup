@@ -18,7 +18,7 @@
     在這裡只有節錄比較重要的部分
 * 可以看到 onkeypress 表示說時刻的記錄著按下的按鍵，可以隨便按，看到網頁上的星星增加了
 * 當按到特別的按鍵時，會有特別的效果，在 function mv 裡面，可以看到有一個註解 do it，想當然要達成他的目標，要按到特別的鍵
-* 查一下 ascii 表，可以看到十位數 124 對應的 ascii 碼是 |
+* 查一下 [ascii 表](https://zh.wikipedia.org/wiki/ASCII)，可以看到十位數 124 對應的 ascii 碼是 |
 * 按下該鍵之後，網址會變成 https://webhacking.kr/challenge/js-3/%7C.php
 * 然後就過拉
     ![](https://i.imgur.com/TDavfRT.png)
