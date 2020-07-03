@@ -36,7 +36,7 @@
     不過我沒有收到 mail
 * 所以我想到了[副本](https://www.thenewslens.com/article/6984)，所以我稍微改一下 payload
     ```
-    lag of webhacking.kr old-47 chall
+    Flag of webhacking.kr old-47 chall
     Cc: 39701965a@gmail.com
     ```
     然後就收到 flag 拉
